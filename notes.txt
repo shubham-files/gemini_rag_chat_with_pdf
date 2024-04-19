@@ -1,0 +1,13 @@
+Video: 
+https://www.youtube.com/watch?v=uus5eLz6smA
+Chat With Multiple PDF Documents With Langchain And Google Gemini Pro #genai #googlegemini
+
+GitHub:
+https://github.com/krishnaik06/Complete-Langchain-Tutorials/blob/main/chatmultipledocuments/chatpdf1.py
+
+# for this I have created the virtual env inside mac with path. Env name is gemini 
+/Users/L058428/experiments/interact_with_multiple_pdfs/gemini 
+
+
+this is end to end program which is perfectly working fine with google gemini llm.
+use streamlit run main.py
